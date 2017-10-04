@@ -21,6 +21,17 @@ Otherwise, you need to ensure static flag almost everytime you edited and re-imp
 
 ## Add StaticEnforcer
 
+5. add StaticEnforcer scripts to your project
+    - by git
+
+      ```git clone https://github.com/showcase-tv/StaticEnforcerForUnity.git```
+
+    - by file copy
+      
+      place scripts under \
+      https://github.com/showcase-tv/StaticEnforcerForUnity/tree/master/Assets/StaticEnforcer/Scripts \
+      to your Assets folder. Please keep the folder name "Editor" to work correctly.
+
 6. Add "Static Enforcer" component to the places "sample-model" with "Add Component" button on the inspector.
 
 ## Then what happens?
